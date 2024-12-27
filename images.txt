@@ -1,1 +1,1 @@
-aipan-netdisk-search:3.9
+aipan-netdisk-search:latest

@@ -8,3 +8,4 @@ xhofe/alist:latest
 skanehira/docui:latest
 fooololo/aipan-netdisk-search:latest
 homeassistant/home-assistant:latest
+bestoray/pgyvpn:latest

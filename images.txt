@@ -10,4 +10,4 @@ fooololo/aipan-netdisk-search:latest
 homeassistant/home-assistant:latest
 bestoray/pgyvpn:latest
 linzeyi/hivision_idphotos:latest
-gitee/gitee:latest
+frooodle/s-pdf:laest

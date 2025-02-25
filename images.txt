@@ -13,3 +13,4 @@ linzeyi/hivision_idphotos:latest
 frooodle/s-pdf:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
+linuxserver/qbittorrent:latest

@@ -14,6 +14,4 @@ frooodle/s-pdf:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:main
 linuxserver/qbittorrent:latest
-
-btpanel-baota:latest
-cyberbolt/baota:latest
+btpanel/baota:latest

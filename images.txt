@@ -16,4 +16,4 @@ ghcr.io/open-webui/open-webui:main
 linuxserver/qbittorrent:latest
 btpanel/baota:latest
 diygod/rsshub:latest
-gitblit/gitblit:latest
+jacekkow/gitblit:latest
